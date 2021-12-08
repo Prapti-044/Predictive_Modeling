@@ -24,7 +24,7 @@ ggplot()+
 ## Feature Importance Plot
 The x-axis represents the features present in the dataset. The y-axis represents the co-efficient values obtained from cv.glmnet model. The figure is shown below:
 
-![Feature Importance Plot](/home/prapti/Predictive_Modeling/Figure/f_i.png)
+![Feature Importance Plot](Figure/f_i.png)
 
 
 To validate the model, comparison is done with 3 featureless baselines like L0, L1, and L2 baselines. The L0 regression is the most frequent response variable. L1 regression is the median of the response variable. L2 is the mean of the response variable.
@@ -74,4 +74,4 @@ The x-axis represents the models for comparison. The y-axis represents the log l
 
 
 
-![Comparison plot](/home/prapti/Predictive_Modeling/Figure/last.png)
+![Comparison plot](Figure/last.png)
