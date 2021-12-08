@@ -68,7 +68,7 @@ ggplot()+
 
 After comparison with the baselines it seems that the model outperformed the baselines performance.
 
-Comparison of cv.glmnet with Baseline models
+## Comparison of cv.glmnet with Baseline models
 
 The x-axis represents the models for comparison. The y-axis represents the log loss error.
 
